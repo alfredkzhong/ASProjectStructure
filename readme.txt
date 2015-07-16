@@ -62,3 +62,5 @@ https://developer.android.com/sdk/installing/migrate.html
 # .idea/* : 表示忽略.idea文件夹下的所有内容，不包括自身，只匹配根目录下的.idea文件夹
 # .idea/*结合!/.idea/vcs.xml : 在.idea/*的基础上，不忽略vcs.xml（注意先后顺序）
 # *.[ab] : 等价于 *.a *.b, 不会匹配*.ab, .a, .b
+
+
