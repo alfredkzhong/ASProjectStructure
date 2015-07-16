@@ -1,5 +1,5 @@
 
->>> Android Studio Project Structure <<<
+### Android Studio Project Structure
 
 /*
  * ASProjectStructure
@@ -31,7 +31,7 @@
  * +-- settings.gradle (project settings)
  */
 
->>> Common Commands <<<
+### Common Commands
 
 ./gradlew -v
 ./gradlew clean
@@ -39,14 +39,14 @@
 ./gradlew assembleDebug
 ./gradlew assembleRelease
 
->>> References <<<
+### References
 
 http://tools.android.com/tech-docs/new-build-system/user-guide
 https://docs.gradle.org/current/userguide/userguide.html
 http://groovy-lang.org/documentation.html
 https://developer.android.com/sdk/installing/migrate.html
 
->>> .gitignore <<<
+### .gitignore
 
 # .gitignore规则
 # 以斜杠“/”开头表示从根目录出发
