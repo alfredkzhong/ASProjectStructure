@@ -33,11 +33,11 @@
 
 ### Common Commands
 
-./gradlew -v
-./gradlew clean
-./gradlew build
-./gradlew assembleDebug
-./gradlew assembleRelease
+- ./gradlew -v
+- ./gradlew clean
+- ./gradlew build
+- ./gradlew assembleDebug
+- ./gradlew assembleRelease
 
 ### References
 
